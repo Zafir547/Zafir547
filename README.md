@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zafir547" alt="zafir547" /></a> </p>
 
-- 🔭 I’m currently working on **AI/ML Interns**
+- 🔭 I’m currently working on **AI/ML Engineer**
 
 - 🌱 I’m currently learning **AI and Data Science**
 
