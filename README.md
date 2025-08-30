@@ -38,7 +38,9 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" height="45" />
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,linux" height="45" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="45" />
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,angular,django,flask,c,cpp" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react,js,ts" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="45"/>
+  <img src="https://skillicons.dev/icons?i=angular,django,flask,c,cpp" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" width="40"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="50" width="45"/>
   
