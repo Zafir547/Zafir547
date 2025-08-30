@@ -67,5 +67,4 @@
 ---
 
 ## 🎯 Fun Fact  
-💡 *AI is not just technology — it’s the future we’re shaping, one model at a time.*  
-
+💡 *AI is not just technology, it’s the future we’re shaping, one model at a time.*
