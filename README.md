@@ -57,7 +57,9 @@
 
 ## 🚀 Highlighted Projects  
 🌟 [Cats vs Dogs Semantic Segmentation (U-Net)](https://github.com/Zafir547/Basic-Real-World-Deep-Learning-Project)  
-🌟 [Fashion MNIST Classification (CNNs)](https://github.com/Zafir547/Fashion_MNIST_Project)  
+🌟 [Fashion MNIST Classification (CNNs)](https://github.com/Zafir547/Fashion_MNIST_Project)
+🌟 [Real Time Multiple Camera Person Re Identification](https://github.com/Zafir547/Real-Time-Multiple-Camera-Person-Re-Identification)
+🌟 [AI-Resume-Screening-and-Matching-SaaS](https://github.com/Zafir547/AI-Resume-Screening-and-Matching-SaaS)
 
 ---
 
