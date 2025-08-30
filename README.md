@@ -36,7 +36,7 @@
 <p align="center">
   <!-- AI/ML -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" height="45" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,linux" height="45" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git" height="45" />
   <img src="https://skillicons.dev/icons?i=linux,mysql,postgres,mongodb" height="45" />
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" height="45"/>
   <img src="https://skillicons.dev/icons?i=bootstrap,angular,django,flask,c,cpp" height="45"/>
