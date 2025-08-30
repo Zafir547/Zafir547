@@ -62,7 +62,7 @@
 
 🌟 [Real Time Multiple Camera Person Re Identification](https://github.com/Zafir547/Real-Time-Multiple-Camera-Person-Re-Identification)
 
-🌟 [AI-Resume-Screening-and-Matching-SaaS](https://github.com/Zafir547/AI-Resume-Screening-and-Matching-SaaS)
+🌟 [AI Resume Screening and Matching SaaS](https://github.com/Zafir547/AI-Resume-Screening-and-Matching-SaaS)
 
 ---
 
