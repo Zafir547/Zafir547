@@ -1,11 +1,11 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Zafir+Abdullah+✨;AI+%7C+ML+%7C+Computer+Vision+Expert;Building+Intelligent+Systems;Welcome+to+my+GitHub!&center=true&width=380&height=50&color=ff0055&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Zafir+Abdullah+✨;%7C+AI+%7C+ML+%7C+Computer+Vision+%7C;Building+Intelligent+Systems;Welcome+to+my+GitHub!&center=true&width=380&height=50&color=ff0055&vCenter=true&size=22">
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+AI+%7C+ML+%7C+DL+Engineer;🔥+Computer+Vision+Specialist;⚡+Generative+AI+Developer;🎯+NLP+%26+MLOps+Expert&center=true&width=500&height=50&color=00d4ff&vCenter=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+AI+%7C+ML+%7C+DL+Engineer;🔥+Computer+Vision+Specialist;⚡+Generative+AI+Developer;🎯+NLP+%26+MLOps&center=true&width=500&height=50&color=00d4ff&vCenter=true&size=20">
   </a>
 </h1>
 
