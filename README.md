@@ -28,7 +28,7 @@
 
 - 🌱 Learning **Deep Learning, GenAI & Agentic AI**  
 
-- 🤝 Open to collaborate on **AI/ML/DL, Computer Vision, NLP**  
+- 🤝 Open to collaborate on **AI, ML, DL, Computer Vision, and NLP**  
 
 - 💬 Ask me about **Python, ML, DL, NLP, and CV**  
 
