@@ -19,13 +19,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zafir547&theme=radical&no-bg=true&margin-w=5&margin-h=5&column=7" alt="trophies"/>
 </div>
 
----
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-## 🚀 About Me
+<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 👨‍💻 About Me  
+
+---
+
 - 🔭 Building **AI/ML Engineering & Intelligent Systems**  
 - 🌱 Learning **Deep Learning, GenAI & Agentic AI**  
 - 🤝 Open to collaborate on **AI/ML/DL, Computer Vision, NLP**  
