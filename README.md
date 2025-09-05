@@ -101,7 +101,7 @@
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,js,ts,cpp,c,java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c" height="50"/>
 </div>
 
 ---
