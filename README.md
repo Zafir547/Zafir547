@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center">
-🚀 AI/Ml Engineer • Deep Learning • Computer Vision • Generative AI
+🚀 AI/Ml Engineer • Deep Learning • Computer Vision • NLP • Generative AI
 </h2>
 
 <div align="center">
