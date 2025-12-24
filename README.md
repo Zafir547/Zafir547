@@ -31,8 +31,6 @@ I’m an **AI/ML Engineer** focused on building production-ready intelligent sys
 - 📫 Email: **zafirabdullah1534@gmail.com**
 - 🌐 LinkedIn: [Zafir Abdullah](https://www.linkedin.com/in/zafir-abdullah/)
 
----
-
 ## 🎯 Current Focus
 - ⚡ **Real-Time AI Surveillance & Vision Systems**
 - 🤖 **Generative AI & Agentic AI**
