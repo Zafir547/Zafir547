@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zafir547&theme=radical&no-bg=true&margin-w=5&margin-h=5&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zafir547&theme=radical&no-bg=true&margin-w=5&margin-h=5&column=6"/>
 </div>
 
 ## 👨‍💻 About Me
