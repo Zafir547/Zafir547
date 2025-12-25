@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/github/stars/zafir547?label=Stars&style=for-the-badge&color=FFD700"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zafir547&theme=radical&no-bg=true&margin-w=5&margin-h=5&column=7" alt="trophies"/>
-</div>
-
 ## 👨‍💻 About Me
 
 <img align="right" alt="AI Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
@@ -79,9 +75,9 @@ I’m an **AI/ML Engineer** focused on building production-ready intelligent sys
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafir547&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zafir547&theme=radical&hide_border=true" alt="streak"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafir547&theme=react-dark&hide_border=true" alt="activity-graph"/>
