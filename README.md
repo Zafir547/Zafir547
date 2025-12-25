@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zafir547&theme=radical&no-bg=true&margin-w=5&margin-h=5&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zafir547&theme=radical&no-bg=true&margin-w=5&margin-h=5&column=7" alt="trophies"/>
 </div>
 
 ## 👨‍💻 About Me
@@ -75,12 +75,16 @@ I’m an **AI/ML Engineer** focused on building production-ready intelligent sys
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafir547&layout=compact&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zafir547&theme=radical&hide_border=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zafir547&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafir547&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafir547&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zafir547&theme=radical&hide_border=true" alt="streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafir547&theme=react-dark&hide_border=true" alt="activity-graph"/>
 </div>
 
 ---
