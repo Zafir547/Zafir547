@@ -1,6 +1,6 @@
 <!-- ===================== HERO HEADER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Zafir+Abdullah+✨;AI+%7C+ML+%7C+Computer+Vision+Engineer;Building+Real-World+Intelligent+Systems;Welcome+to+my+GitHub!&center=true&width=520&height=55&color=00E5FF&vCenter=true&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Zafir+Abdullah+✨;AI+%7C+ML+%7C+NLP+%7C+Computer+Vision;Building+Real-World+Intelligent+Systems;Welcome+to+my+GitHub!&center=true&width=520&height=55&color=00E5FF&vCenter=true&size=24">
 </div>
 
 <h2 align="center">
