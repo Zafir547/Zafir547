@@ -1,10 +1,10 @@
 <!-- ===================== HERO HEADER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Zafir+Abdullah+✨;AI+%7C+ML+%7C+NLP+%7C+Computer+Vision;Building+Real-World+Intelligent+Systems;Welcome+to+my+GitHub!&center=true&width=520&height=55&color=00E5FF&vCenter=true&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Zafir+Abdullah+✨;AI+%7C+ML+%7C+NLP+%7C+CV+%7C+Gen+AI;Building+Real-World+Intelligent+Systems;Welcome+to+my+GitHub!&center=true&width=520&height=55&color=00E5FF&vCenter=true&size=24">
 </div>
 
 <h2 align="center">
-🚀 AI/ML Engineer • Deep Learning • Computer Vision • NLP • Generative AI
+🚀Software Engineer • Machine Learning • Deep Learning • NLP & Computer Vision • Gen AI
 </h2>
 
 <div align="center">
@@ -17,18 +17,18 @@
 
 <img align="right" alt="AI Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-I’m an **AI/ML Engineer** focused on building production-ready intelligent systems using modern machine learning and deep learning techniques.
+I’m a **Software Engineer** focused on building production ready intelligent systems using modern machine learning and deep learning techniques.
 
-- 🔭 Developing **end-to-end AI/ML solutions**
+- 🔭 Developing **end to end software solutions**
 - 🧠 Expertise in **ML, DL, Computer Vision, NLP & GenAI**
-- ⚙️ Experience with **real-time pipelines & deployment**
+- ⚙️ Experience with **real time pipelines & deployment**
 - 🤝 Open for **research & industry collaborations**
 - 💬 Ask me about **Python, Keras, PyTorch, TensorFlow, YOLO, NLP, CV, GenAI**
 - 📫 Email: **zafirabdullah1534@gmail.com**
 - 🌐 LinkedIn: [Zafir Abdullah](https://www.linkedin.com/in/zafir-abdullah/)
 
 ## 🎯 Current Focus
-- ⚡ **Real-Time AI Surveillance & Vision Systems**
+- ⚡ **Real Time AI Surveillance & Vision Systems**
 - 🤖 **Generative AI & Agentic AI**
 - ☁️ **Scalable AI Systems & MLOps**
 
