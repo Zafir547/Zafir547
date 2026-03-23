@@ -1,10 +1,10 @@
 <!-- ===================== HERO HEADER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Zafir+Abdullah+✨;AI+%7C+ML+%7C+NLP+%7C+CV+%7C+Gen+AI;Building+Real-World+Intelligent+Systems;Welcome+to+my+GitHub!&center=true&width=520&height=55&color=00E5FF&vCenter=true&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Zafir+Abdullah+✨;AI+%7C+ML+%7C+NLP+%7C+CV+%7C+GenAI;Building+Real-World+Intelligent+Systems;Welcome+to+my+GitHub!&center=true&width=520&height=55&color=00E5FF&vCenter=true&size=24">
 </div>
 
 <h2 align="center">
-🚀Software Engineer • Machine Learning • Deep Learning • NLP & Computer Vision • Gen AI
+🚀Software Engineer • Machine Learning • Deep Learning • NLP & Computer Vision • GenAI
 </h2>
 
 <div align="center">
@@ -20,7 +20,7 @@
 I’m a **Software Engineer** focused on building production ready intelligent systems using modern machine learning and deep learning techniques.
 
 - 🔭 Developing **end to end software solutions**
-- 🧠 Expertise in **ML, DL, Computer Vision, NLP & GenAI**
+- 🧠 Expertise in **ML, DL, NLP, Computer Vision & GenAI**
 - ⚙️ Experience with **real time pipelines & deployment**
 - 🤝 Open for **research & industry collaborations**
 - 💬 Ask me about **Python, Keras, PyTorch, TensorFlow, YOLO, NLP, CV, GenAI**
