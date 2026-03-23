@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center">
-🚀Software Engineer • Machine Learning • Deep Learning • NLP & Computer Vision • GenAI
+🚀Software Engineer • Machine Learning • Deep Learning • NLP • Computer Vision • GenAI
 </h2>
 
 <div align="center">
