@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center">
-🚀AI Engineer • Machine Learning • Deep Learning • NLP • Computer Vision • GenAI
+🚀AI/ML Developer • Machine Learning • Deep Learning • NLP • Computer Vision • GenAI
 </h2>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <img align="right" alt="AI Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-I’m an **AI Engineer** focused on building production ready intelligent systems using modern machine learning and deep learning techniques.
+I’m an **AI/ML Developer** focused on building production ready intelligent systems using modern machine learning and deep learning techniques.
 
 - 🔭 Developing **end to end AI/ML solutions**
 - 🧠 Expertise in **ML, DL, NLP, Computer Vision & GenAI**
