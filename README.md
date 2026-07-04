@@ -85,7 +85,7 @@ I’m an **AI Developer** focused on building production ready intelligent syste
 | 👁️ **Real-Time Person ReID** | Multi-camera real-time person re-identification |
 | 🐱 **U-Net Segmentation** | Semantic image segmentation using U-Net |
 | 👔 **Fashion MNIST CNN** | CNN-based image classification |
-| 🧠 **Stress Detection using Facial Expression (MobileNetV2)** | Facial stress classification using transfer learning & Streamlit deployment |
+| 🧠 **Stress Detection using Facial Expression** | AI-powered facial stress classification using MobileNetV2 with transfer learning, and Streamlit for real-time prediction. |
 
 ---
 
