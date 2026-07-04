@@ -80,7 +80,7 @@ I’m an **AI Developer** focused on building production ready intelligent syste
 
 | Project | Description |
 |-------|------------|
-| 🔥 **Fire & Smoke Detection (YOLOv8 - Ultralytics)** | Real-time fire and smoke detection using Ultralytics YOLOv8, trained on a custom dataset for fast and accurate object detection. |
+| 🔥 **Fire & Smoke Detection** | Real-time fire and smoke detection using Ultralytics YOLOv8, trained on a custom dataset for fast and accurate object detection. |
 | 🎯 **AI Resume Screening SaaS** | NLP-based resume screening & candidate matching |
 | 👁️ **Real-Time Person ReID** | Multi-camera real-time person re-identification |
 | 🐱 **U-Net Segmentation** | Semantic image segmentation using U-Net |
