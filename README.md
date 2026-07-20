@@ -20,7 +20,7 @@
 I’m an **AI Developer** focused on building production ready intelligent systems using modern machine learning and deep learning techniques.
 
 - 🔭 Developing **end to end AI solutions**
-- 🧠 Expertise in **ML, DL, NLP, Computer Vision & GenAI**
+- 🧠 Expertise in **ML, DL, NLP, CV, and GenAI**
 - ⚙️ Experience with **real time pipelines & deployment**
 - 🤝 Open for **research & industry collaborations**
 - 💬 Ask me about **Python, Keras, PyTorch, TensorFlow, YOLO, NLP, CV, GenAI**
